@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - :mag_right: Currently open to exciting `internships`, `research`, or `job opportunities`.
 
 📄 [Here’s my resume](https://github.com/mullerezee7/mullerezee7/blob/main/CV%20-%20Ezequiel%20M%C3%BCller.pdf)  
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/tu-usuario)
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/ezequiel-m%C3%BCller-018667245/)
 <br>
 
 ## 🛠️ Programming Languages 
