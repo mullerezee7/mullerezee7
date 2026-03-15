@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - :nerd_face: Constantly learning and improving — from circuits to code.
 - :mag_right: Currently open to exciting `internships`, `research`, or `job opportunities`.
 
-📄 [Here’s my resume](https://your-resume-link.com)  
+📄 [Here’s my resume]([https://your-resume-link.com](https://github.com/mullerezee7/CV_EM/blob/main/CV%20-%20Ezequiel%20M%C3%BCller.pdf))  
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/tu-usuario)
 <br>
 
